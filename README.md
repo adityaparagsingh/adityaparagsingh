@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityaparagsingh
 - 👀 I’m a newbie please help me learn coding from scratch
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning C++
 
 
 <!---
