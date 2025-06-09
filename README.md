@@ -1,4 +1,4 @@
-![Banner](./github_banner.png)  
+![Banner](./banner.png)  
 # 💫 About Me:
 Hi, I’m @adityaparagsingh "I don't use Arch, btw" :)<br><br><br>👯 I’m looking to collaborate on:<br>Frontend web development projects and electronics-based academic projects.<br><br>🤝 I’m looking for help with:<br>JavaScript frameworks like React and understanding core data structures and algorithms.<br><br>🌱 I’m currently learning:<br>3D modelling and full-stack development (JavaScript, React).<br><br>💬 Ask me about:<br>C++, HTML/CSS, Figma design, or productivity streaks (1230+ days and counting!).<br><br>⚡ Fun fact:<br>I’ve lived in over 10 states across India and write my To-Do list every single day without fail.
 
