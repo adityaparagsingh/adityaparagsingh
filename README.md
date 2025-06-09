@@ -24,4 +24,5 @@ Hi, I’m @adityaparagsingh "I don't use Arch, btw" :)<br><br><br>👯 I’m loo
 ---
 [![](https://visitcount.itsvg.in/api?id=adityaparagsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Banner](./github_banner.png)
+<!-- Created by Aditya -->
