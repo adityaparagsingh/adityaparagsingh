@@ -6,7 +6,7 @@ Hi, I’m @adityaparagsingh "I don't use Arch, btw" :)<br><br><br>👯 I’m loo
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityaparagsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-parag-singh-68576b31a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaparagsingh@gmail.com) 
 
-# Profile Views on Github:
+## Profile Views on Github:
 [![Image of https://github.com/adityaparagsingh/view_counter](https://github.com/adityaparagsingh/view_counter/blob/master/svg/profile/badge.svg)](https://github.com/adityaparagsingh/view_counter)
 
 # 💻 Tech Stack:
