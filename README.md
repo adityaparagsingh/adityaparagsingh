@@ -109,20 +109,7 @@ while (alive) {
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityaparagsingh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaparagsingh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adityaparagsingh&theme=blue-green&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=adityaparagsingh&limit=5&theme=blue-green&combine_all_yearly_contributions=true" />
-</p>
 
 ---
 
