@@ -163,7 +163,7 @@ A Chrome extension for saving, managing, and deleting leads with support for sav
 
 ### LeetCode
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/adityaparagsingh/">
 <img src="https://img.shields.io/badge/LeetCode-Solving%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -175,7 +175,7 @@ A Chrome extension for saving, managing, and deleting leads with support for sav
 
 </div>
 
-> 💡 Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username.
+> 💡 Replace `adityaparagsingh` with your actual LeetCode username.
 
 ---
 
