@@ -1,110 +1,243 @@
-![Banner](./banner.png)
+<div align="center">
 
-<h1 align="center">Hi there, I'm Aditya 👋</h1>
-<h3 align="center">B.Tech Computer Engineering student • Builder of things across the stack</h3>
+# 👋 Hey, I'm Aditya Parag Singh
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&width=460&lines=I+don't+use+Arch%2C+btw+%3A);Frontend+dev+%7C+DSA+grinder;1230%2B+day+productivity+streak+and+counting" alt="Typing SVG" />
+### `Computer Engineering Student` • `Full-Stack Developer` • `Problem Solver` • `3D Enthusiast`
+
+<p>
+  <a href="https://github.com/adityaparagsingh">
+    <img src="https://img.shields.io/badge/GitHub-adityaparagsingh-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-parag-singh-68576b31a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Parag%20Singh-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/adityaparagsingh/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:adityaparagsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+> Building, breaking, debugging things.
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Computer Engineering undergraduate** who enjoys building practical software, solving algorithmic problems, and exploring new technologies.
+
+Currently focused on **full-stack development, Data Science, DSA, AI, and 3D modelling**. I like turning ideas into functional projects and learning by actually building things.
+
+* 🎓 Computer Engineering undergraduate
+* 💻 Building with **JavaScript, React, Node.js, Python & C++**
+* 🧠 Practising **Data Structures & Algorithms**
+* 📊 Learning **Data Science & Machine Learning**
+* 🤖 Exploring **Generative AI & RAG**
+* 🎨 Learning **Blender & 3D modelling**
+* 🌐 Interested in **Full-Stack Development & AI**
+* 🏸 Into badminton, cricket, tennis, gym & cycling
+* ⚡ **1230+ day productivity streak**
+
+---
+
+## 🚀 Current Focus
+
+```text
+Full-Stack Development       ████████████████░░░░
+Data Structures & Algorithms ██████████████░░░░░░
+Data Science                 ████████████░░░░░░░░
+AI / Machine Learning        ██████████░░░░░░░░░░
+3D Modelling / Blender       ██████████░░░░░░░░░░
+```
+
+* Building projects with **React + Node.js**
+* Strengthening **DSA using C++ & Python**
+* Working with **NumPy, pandas, Matplotlib & scikit-learn**
+* Solving problems on **LeetCode**
+* Exploring **Generative AI, RAG & LangChain**
+* Experimenting with **Blender and 3D modelling**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 📊 Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### 🤖 AI & Tools
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+### 🎨 Design & 3D
+
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
 ---
 
-### 💫 About Me
+# 🚀 Featured Projects
 
-- 👯 **Looking to collaborate on:** frontend web dev projects and electronics-based academic builds
-- 🤝 **Looking for help with:** JS frameworks (React) and leveling up core DSA
-- 🌱 **Currently learning:** 3D modelling and full-stack dev (JS/React)
-- 💬 **Ask me about:** C++, HTML/CSS, Figma design, or how to keep a 1230+ day streak alive
-- ⚡ **Fun fact:** I'll debate you on text editors, but I still don't use Arch
+### 📝 nailIT
 
----
+**React • Tailwind CSS • UUID • LocalStorage**
 
-### 🚀 Featured Projects
+A persistent task-management application with task creation, editing, deletion, completion tracking, and browser-based storage.
 
-| Project | Description |
-|---|---|
-| 🛡️ **[DataGuard Pro](https://github.com/adityaparagsingh)** | Mobile data-usage tracker built in React Native/Expo — donut gauges & bar charts via `react-native-chart-kit`, async storage persistence, animated tab transitions |
-| 🖥️ **Shell Interpreter for Linux OS** | Academic systems project implementing a custom shell interpreter, built with a team under faculty guidance |
-| 🌐 **[Website Clones](https://github.com/adityaparagsingh/Website_Clones)** | Pixel-level clones of Netflix and UltraEdit, focused on layout precision and responsive CSS |
+### 🎵 SPOOTIfy
 
----
+**HTML • CSS • JavaScript**
 
-### 🌐 Connect With Me
+A Spotify-inspired music player featuring custom UI, playlists, audio controls, and JavaScript-based playback.
 
-<p align="left">
-<a href="https://instagram.com/adityaparagsingh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/aditya-parag-singh-68576b31a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:adityaparagsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
+### 📊 Sales Analytics Dashboard
 
-### 👀 Profile Views
+**React • JavaScript • CSS • Recharts**
 
-[![Profile Views](https://github.com/adityaparagsingh/view_counter/blob/master/svg/profile/badge.svg)](https://github.com/adityaparagsingh/view_counter)
-[![](https://visitcount.itsvg.in/api?id=adityaparagsingh&icon=0&color=0)](https://visitcount.itsvg.in)
+A modern SaaS-style analytics dashboard with interactive charts, filters, search functionality, and sales insights.
 
----
+### 📰 News Application
 
-### 💻 Tech Stack
+**React • JavaScript • CSS**
 
-**Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+A responsive news application focused on clean UI and intuitive content browsing.
 
-**Web & Mobile**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37)
+### 🌐 Website Clones
 
-**Databases**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**HTML • CSS • JavaScript • Tailwind CSS**
 
-**Design & Tools**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+Frontend recreations inspired by **Netflix, X, and UltraEdit**, built to strengthen responsive design and frontend development skills.
+
+### 🧰 Leads Tracker
+
+**HTML • CSS • JavaScript • LocalStorage**
+
+A Chrome extension for saving and managing leads, with support for saving the current browser tab.
 
 ---
 
-### 📊 GitHub Stats
+# 🧠 Problem Solving
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityaparagsingh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaparagsingh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adityaparagsingh&theme=blue-green&hide_border=false" />
-</p>
+<a href="https://leetcode.com/adityaparagsingh/">
 
-### 🧩 LeetCode Stats
+<img src="https://img.shields.io/badge/LeetCode-adityaparagsingh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/adityaparagsingh?theme=dark&font=baloo2&ext=heatmap" />
-</p>
+</a>
 
-> ⚠️ Update the LeetCode username above (`adityaparagsingh`) if your handle is different — I used your GitHub username as a placeholder since you didn't specify one.
+<br><br>
 
----
+**Sharpening my problem-solving skills one problem at a time.**
 
-### 🔝 Top Contributed Repo
+`Arrays` • `Strings` • `Hash Maps` • `Linked Lists` • `Recursion` • `Sorting` • `Dynamic Programming`
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=adityaparagsingh&limit=5&theme=blue-green&combine_all_yearly_contributions=true" />
-</p>
+</div>
 
 ---
 
-<p align="center"><i>Currently on a 1230+ day productivity streak — one to-do at a time.</i></p>
+# 📚 Currently Learning
 
-<!-- Created by Aditya -->
+<div align="center">
+
+| Area               | Focus                                      |
+| ------------------ | ------------------------------------------ |
+| 🌐 Web Development | React • Node.js • Full-Stack               |
+| 🧠 DSA             | C++ • Problem Solving • LeetCode           |
+| 📊 Data Science    | NumPy • pandas • Matplotlib • scikit-learn |
+| 🤖 AI              | Generative AI • RAG • LangChain            |
+| 🎨 3D              | Blender • 3D Modelling                     |
+
+</div>
+
+---
+
+# 🏆 Goals
+
+* 🚀 Build production-quality full-stack applications
+* 🧠 Become stronger at DSA and competitive problem solving
+* 📊 Develop practical Data Science & ML skills
+* 🤖 Build useful AI-powered applications
+* 💼 Prepare for software engineering opportunities
+* 🔨 Keep building projects instead of just collecting tutorials
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aditya-parag-singh-68576b31a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/adityaparagsingh/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/adityaparagsingh">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:adityaparagsingh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `Code. Build. Break. Learn. Repeat.`
+
+⭐ Thanks for stopping by!
+
+![Profile Views](https://komarev.com/ghpvc/?username=adityaparagsingh\&style=for-the-badge)
+
+</div>
+
+<!-- Made with caffeine, curiosity and an unreasonable number of browser tabs. -->
