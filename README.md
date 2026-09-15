@@ -94,10 +94,10 @@ while (alive) {
 <a href="https://leetcode.com/adityaparagsingh" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/adityaparagsingh/view_counter"><img src="https://github.com/adityaparagsingh/view_counter/blob/master/svg/profile/badge.svg" /></a>
 <img src="https://visitcount.itsvg.in/api?id=adityaparagsingh&icon=0&color=0" />
-</p>
+</p> -->
 
 ---
 
