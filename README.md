@@ -4,7 +4,8 @@
 
 # ⚡ Aditya Parag Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=550&lines=I+don't+use+Arch%2C+btw+%3A);Solving+problems+one+recursion+at+a+time;Full-stack+by+day%2C+DSA+grinder+by+night;1230%2B+day+productivity+streak+%F0%9F%94%A5" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=550&lines=I+don't+use+Arch%2C+btw+%3A);Solving+problems+one+recursion+at+a+time;Full-stack+by+day%2C+DSA+grinder+by+night;1230%2B+day+productivity+streak+%F0%9F%94%A5" alt="Typing SVG" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=I+don't+use+Arch%2C+btw+%3A);Solving+problems+one+recursion+at+a+time;Full-stack+by+day%2C+DSA+grinder+by+night;git+commit+-m+%22it+compiles%2C+ship+it%22+%F0%9F%9A%80;Turning+coffee+into+code%2C+one+commit+at+a+time+%E2%98%95;Currently+arguing+with+my+own+code+%28and+losing%29;Building+the+web%2C+byte+by+byte" alt="Typing SVG" />
 
 </div>
 
