@@ -1,11 +1,3 @@
-![Banner](./banner.png)
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://claude.ai/artifact/V7eoQ1goPsDMPgS8WaTqGX" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
 <div align="center">
 
 # ⚡ Aditya Parag Singh
@@ -90,6 +82,12 @@ while (alive) {
 > 💬 Ask me about C++, HTML/CSS, Figma, or how to run a 1230+ day streak without breaking it
 
 ---
+
+## 🌐 Portfolio
+
+<a href="https://claude.ai/artifact/V7eoQ1goPsDMPgS8WaTqGX" target="_blank">
+  <img src="./portfolio-preview.png" alt="Portfolio preview — click to open" width="100%" />
+</a>
 
 ## 🔗 Connect
 
