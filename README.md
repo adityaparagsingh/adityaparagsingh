@@ -1,8 +1,15 @@
+![Banner](./githubbanner.png)
+
 <div align="center">
 
 # ⚡ Aditya Parag Singh
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=I+don't+use+Arch%2C+btw+%3A);Solving+problems+one+recursion+at+a+time;Full-stack+by+day%2C+DSA+grinder+by+night;git+commit+-m+%22it+compiles%2C+ship+it%22+%F0%9F%9A%80;Turning+coffee+into+code%2C+one+commit+at+a+time+%E2%98%95;Currently+arguing+with+my+own+code+%28and+losing%29;Building+the+web%2C+byte+by+byte" alt="Typing SVG" />
+
+<p align="center">
+<img src="https://img.shields.io/badge/status-open%20to%20collaborate-00C7B7?style=flat-square" />
+<img src="https://img.shields.io/badge/streak-1230%2B%20days-00C7B7?style=flat-square" />
+</p>
 
 </div>
 
@@ -83,25 +90,13 @@ while (alive) {
 
 ---
 
-## 🌐 Portfolio
-
-<a href="https://claude.ai/artifact/V7eoQ1goPsDMPgS8WaTqGX" target="_blank">
-  <img src="./portfolio-preview.png" alt="Portfolio preview — click to open" width="100%" />
-</a>
-
 ## 🔗 Connect
 
 <p align="center">
-<a href="https://claude.ai/artifact/V7eoQ1goPsDMPgS8WaTqGX" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://instagram.com/adityaparagsingh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/aditya-parag-singh-68576b31a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:adityaparagsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/adityaparagsingh" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/adityaparagsingh/view_counter"><img src="https://github.com/adityaparagsingh/view_counter/blob/master/svg/profile/badge.svg" /></a>
-<img src="https://visitcount.itsvg.in/api?id=adityaparagsingh&icon=0&color=0" />
 </p>
 
 ---
@@ -114,19 +109,10 @@ while (alive) {
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Recent Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityaparagsingh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaparagsingh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adityaparagsingh&theme=blue-green&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=adityaparagsingh&limit=5&theme=blue-green&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaparagsingh&theme=react-dark&hide_border=true&bg_color=00000000&color=00C7B7&line=00C7B7&point=F2B84B" />
 </p>
 
 ---
@@ -158,7 +144,7 @@ while (alive) {
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ---
