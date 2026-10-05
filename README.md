@@ -8,7 +8,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/status-open%20to%20collaborate-00C7B7?style=flat-square" />
-<img src="https://img.shields.io/badge/streak-1230%2B%20days-00C7B7?style=flat-square" />
 </p>
 
 </div>
@@ -109,13 +108,6 @@ while (alive) {
 
 ---
 
-## 📈 Recent Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaparagsingh&theme=react-dark&hide_border=true&bg_color=00000000&color=00C7B7&line=00C7B7&point=F2B84B" />
-</p>
-
----
 
 ## 💻 Full Tech Stack
 
@@ -153,6 +145,6 @@ while (alive) {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:323330,100:00C7B7&height=100&section=footer" />
 </p>
 
-<p align="center"><i>1230+ days deep into the streak — one commit, one problem, one build at a time.</i></p>
+<p align="center"><i>Ready to Collab</i></p>
 
 <!-- Created by Aditya -->
